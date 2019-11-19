@@ -1,12 +1,8 @@
 
-
-
-# Microsoft.Github CI Demo
-
-[![Build Status](https://dev.azure.com/rachel1402/Parts%20Unlimited/_apis/build/status/rachel-1402.ContosoAir?branchName=master)](https://dev.azure.com/rachel1402/Parts%20Unlimited/_build/latest?definitionId=2&branchName=master)
-
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
+
+[![Build Status](https://dev.azure.com/rachel1402/Parts%20Unlimited/_apis/build/status/rachel-1402.ContosoAir?branchName=master)](https://dev.azure.com/rachel1402/Parts%20Unlimited/_build/latest?definitionId=2&branchName=master)
 
 ## Requirements
 
